@@ -10,5 +10,5 @@ const head = function(arr) {
   }
 };
 
-// export the assertEqual function
+// export the head function
 module.exports = head;
