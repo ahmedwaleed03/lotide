@@ -1,6 +1,3 @@
-// import the assertEqual function
-const assertEqual = require('./assertEqual');
-
 // eqArrays function implementation
 const eqArrays = function(arr1, arr2) {
   // check if array lengths are the same
